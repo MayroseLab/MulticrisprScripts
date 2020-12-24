@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/pupkoSVN/!svn/ver/21487/trunk/www/multicrispr/python/search_off_targets
+END
+CRISTA_main.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pupkoSVN/!svn/ver/21487/trunk/www/multicrispr/python/search_off_targets/CRISTA_main.py
+END
+crista_search_offtargets.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pupkoSVN/!svn/ver/21487/trunk/www/multicrispr/python/search_off_targets/crista_search_offtargets.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/pupkoSVN/!svn/ver/21487/trunk/www/multicrispr/python/search_off_targets/__init__.py
+END
+example.txtsgrna.fa
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pupkoSVN/!svn/ver/21487/trunk/www/multicrispr/python/search_off_targets/example.txtsgrna.fa
+END
+PA_limitedIndel.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/pupkoSVN/!svn/ver/21487/trunk/www/multicrispr/python/search_off_targets/PA_limitedIndel.py
+END
+example.txtsgrna.fa.out.sai
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/pupkoSVN/!svn/ver/21487/trunk/www/multicrispr/python/search_off_targets/example.txtsgrna.fa.out.sai
+END
+test_crista.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/pupkoSVN/!svn/ver/21487/trunk/www/multicrispr/python/search_off_targets/test_crista.py
+END
+genes_pos_dict.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/pupkoSVN/!svn/ver/21487/trunk/www/multicrispr/python/search_off_targets/genes_pos_dict.py
+END
+genes_locations_dict.p
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/pupkoSVN/!svn/ver/21487/trunk/www/multicrispr/python/search_off_targets/genes_locations_dict.p
+END
