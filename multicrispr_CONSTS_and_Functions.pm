@@ -36,6 +36,7 @@ use constant RESULTS_PAGE_URL1			=> "/results1.html";
 use constant FILENAME_PARAMS			=> "params.html";
 use constant SERVER_LINK  => "http://multicrispr.tau.ac.il";
 use constant RESULT_TREE  => "tree.newick";
+use constant DAILY_TESTS_DIR => "/bioseq/bioSequence_scripts_and_constants/daily_tests/";
 
 
 
